@@ -1,4 +1,4 @@
-# Fresh Tomatoes Movie Trailers
+# Favorite Movie Trailers
 
 This is a package that generates a webpage which allows visitors to watch movie trailers. The generated webpage also shows each movie's information such as title, box art imagery and storyline.
 
